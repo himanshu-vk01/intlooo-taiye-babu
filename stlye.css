@@ -1,0 +1,25 @@
+#photo{
+    height: 200px;
+    width: 170px;
+    border: 2px solid rgb(55, 0, 128);
+}
+*{
+    background-color:gray ;
+    padding: auto;
+    font-family: 'Poppins' , sans-serif;
+}
+h3{
+    font-family: 'Kaushan Script' , cursive;
+    font-size: 30px;
+    color: rgb(0, 6, 6);
+}
+.name{
+    font-size: 25px;
+}
+li a{
+    text-decoration: none;
+}
+li a:hover{
+    font-size: 20px;
+    color: rgb(189, 0, 0);
+}
